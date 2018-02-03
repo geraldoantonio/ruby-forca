@@ -1,0 +1,18 @@
+{
+
+	"frutas": 
+			["Acai", "Acerola", "Abacate", "Abacaxi", "Ameixa", "Amendoa", "Amora", "Anona", "Araticum", "Babaco", "Banana", "Bacuripari", "Caja", "Caju", "Caqui", "Cambuci", "Carambola", "Cereja", "Coco", "Cupuacu", "Cacau", "Castanha", "Damasco", "Figo", "Framboesa", "Goiaba", "Graviola", "Groselha", "Guarana", "Inga", "Jabuticaba", "Jaca", "Jambo", "Jambolao", "Laranja", "Limao", "Melancia", "Melao", "Maca", "Manga", "Mamao", "Maracuja", "Marmelo", "Mexerica", "Mirtilo", "Morango", "Nectarina", "Noni", "Pinha", "Pequi", "Pera", "Pessego", "Pitanga", "Pitaia", "Quiui", "Roma", "Sapoti", "Tamarindo", "Tangerina", "Tomate", "Umbu", "Uva"],
+	
+	"legumes":
+		["Abobora", "Abobrinha", "Alho", "Batata-doce", "Beringela", "Beterraba", "Cara", "Cebola", "Cenoura", "Chuchu", "Couve-Flor", "Ervilha", "Fava", "Feijao", "Gengibre", "Inhame", "Jilo", "Lentilha", "Mandioca", "Mandioquinha", "Maxixe", "Milho", "Nabo", "Pepino", "Pimenta", "Pimentao", "Quiabo", "Rabanete", "Repolho", "Soja"],
+
+	"verduras":
+		["Acelga", "Agriao", "Aipo", "Alcachofra", "Alface", "Alfafa", "Almeirao", "Aspargo", "Brocolis", "Catalonia", "Cebolinha", "Chicoria", "Coentro", "Couve", "Endivia", "Espinafre", "Hortela", "Manjericao", "Mostarda", "Rucula", "Salsa", "Taro"],
+
+	"animais":
+		["Abelha", "aguia", "Alce", "Andorinha", "Anta", "Antílope", "Aranha", "Ave-lira", "Avestruz", "Babuíno", "Baleia", "Barata", "Bisao", "Boi", "Borboleta", "Bufalo", "Burro", "Cabra", "Cacao", "Camelo", "Canguru", "Cao", "Caracol", "Caranguejo", "Carneiro", "Castor", "Cavalo", "Cefo", "Chacal", "Chimpanze", "Cisne", "Cobra", "Coelho", "Coiote", "Cormorao", "Coruja", "Corvo", "Corvo", "Cotovia", "Crocodilo", "Cudu", "Doninha", "Dragao-de-Komodo", "Dugongo", "Elefante", "Enguia", "Equidnas", "Esquilo", "Estrela-do-mar", "Falcao", "Foca", "Formiga", "Frango", "Fuinha", "Furao", "Gaivota", "Ganso", "Garca-real", "Gato", "Gauro", "Gazela", "Gerbilo", "Girafa", "Gnu", "Golfinho", "Gorila", "Guanaco", "Guaxinim", "Hamster", "Hiena", "Hipopotamo", "Iaque", "Iguana", "Jacare", "Jaguar", "Javali", "Kouprey", "Lagarta", "Lagarto", "Lagosta", "Leao", "Leao-do-Mar", "Lebre", "Lemure", "Leopardo", "Lhama", "Libelula", "Lobo", "Lontra", "Loris", "Lula", "Macaco", "Medusa", "Morcego", "Morsa", "Mosca", "Mosquito", "Mula", "Musaranho", "Naja", "Ocapi", "Orix", "Ostra", "Ourico", "Ovelha", "Panda", "Pantera", "Papa-formigas", "Pato", "Pavao", "Pega", "Peixe-boi", "Pelicano", "Perdiz", "Peru", "Piolho", "Pomba", "Pombo", "Ponei", "Porco", "Porco-espinho", "Porquinho-da-india", "Puma", "Raposa", "Ratazana", "Rato", "Rena", "Rinoceronte", "Rouxinol", "Salamandra", "Sapo", "Serpente", "Suricata", "Tarsius", "Tartaruga", "Tatu", "Tentilhao", "Texugo", "Tigre", "Toupeira", "Tubarao", "Uapiti", "Urso", "Veado", "Vespa", "Vespao", "Vison", "Zebra"]
+
+
+
+
+}
