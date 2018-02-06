@@ -149,7 +149,11 @@ class Palavra
   
   
   def digitadas=(text)
-    @digitadas.push(text[0].upcase)
+    if text.empty?
+       puts ""
+    else
+      @digitadas.push(text[0].upcase)
+    end
   end
   
   def digitadas
